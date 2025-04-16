@@ -1,2 +1,2 @@
 # TQC-ML
-本專案收錄 TQC+ 機器學習認證相關的 10 道實作題目，每一題皆包含完整的 Python 程式碼與對應資料處理流程。
+This project includes 10 practical questions related to the TQC+ machine learning certification. Each question includes complete Python code and corresponding data processing flow.
