@@ -1,1 +1,1 @@
-此資料夾包含 TQC+ 第二題的題目、實作計畫與答案。
+This folder contains the questions, implementation plans and answers for TQC+ Question 102.
